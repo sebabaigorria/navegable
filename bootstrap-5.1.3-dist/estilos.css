@@ -1,0 +1,12 @@
+.espacio{
+    padding: 100px;
+}
+
+.bg-{
+    background-image: linear-gradient(to left, red, black);
+}
+
+.color{
+    color: gray;
+}
+
